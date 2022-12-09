@@ -78,9 +78,9 @@ Subgraphs: https://thegraph.com/hosted-service/subgraph/rahulbansal123/waffy
 
 Valist: https://gateway.valist.io/ipfs/QmYDgPtvziyis5a3HbsG223163MxXAnqo6xzbZ1NMqeT9j
 
-Link to video: https://www.dropbox.com/
+Link to video: https://youtu.be/OWMK__BQjus
 
-Slide Deck: https://www.canva.com/
+Slide Deck: https://drive.google.com/file/d/1_Zfl8v3i7Le0_rCPyQ8v9ERweNMEdnxp/view?usp=share_link
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
